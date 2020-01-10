@@ -1,2 +1,2 @@
-# Python for Data Science and Machine Learning Bootcamp
- Excercises with Python for Data Science and Machine Learning Bootcamp
+# Python-Data-Science-and-Machine-Learning-Bootcamp
+Repo for Python Data Science and Machine Learning Bootcamp
